@@ -5,9 +5,9 @@
 
 **Created On**: `2020 November 16`
 <!-- <br>
-Deployment: 
+**Deployment**: 
 <br>
-Repository: https://github.com/charlinelach/yogaPlan !-->
+**Repository**: https://github.com/charlinelach/wartortleBudgetTracker !-->
 
 # Table of Contents
 * [Usage](#usage)
@@ -29,15 +29,20 @@ Users are able to utilize the application to track exercises, with name, type, w
 ![Home Page](images/homepage.png)
 ![Resistance Fields](images/resistance.png)
 ![Cardio Fields](images/cardio.png)
+ -->
 
 ## Installation
 N/A when on Heroku
+<br>
+Installation related to testing can be seen in the [testing](#testing) section.
 
 ## Credits
 Shout out to the wonderful instructor, TAs, and classmates!
 
 ## Testing
-N/A -->
+```
+Install npm to test via Visual Studio: npm i
+```
 
 # License
 MIT License <br>
