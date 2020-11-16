@@ -1,6 +1,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
 
-# Wartortle Budget Tracker, v2
+# Wartortle Budget Tracker
 The purpose of this application/website is to provide a way to add and/or subtract funds. Users would able to do so with or without internet connection.
 
 **Created On**: `2020 November 16`
