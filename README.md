@@ -38,9 +38,9 @@ Shout out to the wonderful instructor, TAs, and classmates!
 ```
 Install npm to test via Visual Studio: npm i
 Heroku: Enter information online vs offline
-
-WITHOUT refreshing the browser, if the amounts remain and receive new adds/subtracts, then the application is working successfully.
 ```
+WITHOUT refreshing the browser, if the amounts remain and receive new adds/subtracts, then the application is working successfully.
+
 
 # License
 MIT License <br>
