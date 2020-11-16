@@ -24,10 +24,7 @@ To utilize the application, the user would access the application via [Heroku](h
 Users can add amounts in the fields and selecting whether or not they are additions or subracture. The actions will be shown in a table of entries and in a chart of changes.
 <br>
 
-![Home Page](images/homepage.png)
-![Resistance Fields](images/resistance.png)
-![Cardio Fields](images/cardio.png)
-
+![Demo](/public/screenshots/budgetGIF.gif)
 
 ## Installation
 N/A when on Heroku
@@ -41,6 +38,8 @@ Shout out to the wonderful instructor, TAs, and classmates!
 ```
 Install npm to test via Visual Studio: npm i
 Heroku: Enter information online vs offline
+
+WITHOUT refreshing the browser, if the amounts remain and receive new adds/subtracts, then the application is working successfully.
 ```
 
 # License
