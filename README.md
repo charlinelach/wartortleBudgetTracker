@@ -6,8 +6,8 @@
 **Created On**: `2020 November 16`
 <!-- <br>
 **Deployment**: 
-<br>
-**Repository**: https://github.com/charlinelach/wartortleBudgetTracker !-->
+<br> !-->
+**Repository**: https://github.com/charlinelach/wartortleBudgetTracker
 
 # Table of Contents
 * [Usage](#usage)
